@@ -1,7 +1,3 @@
-Certainly! Here's the updated README.md:
-
----
-
 # QR Code Generator API
 
 ## Overview
